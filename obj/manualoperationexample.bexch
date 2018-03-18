@@ -1,0 +1,24 @@
+[GENERATED OBJECT FILE]
+b__manualoperationexample.o
+[PROJECT FILES]
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/default.gpr
+20180316232338
+[BOUND OBJECT FILES]
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/measures.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/principal.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/randomnumber.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/heart.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/hrm.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/impulsegenerator.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/network.o
+/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/manualoperationexample.o
+[GENERATED SOURCE FILES]
+b__manualoperationexample.ads
+b__manualoperationexample.adb
+b__manualoperationexample.ali
+[RESULTING OPTIONS]
+-L/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/
+-L/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/obj/
+-L/users/junjiehuang/ada/lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/adalib/
+-static
+/users/junjiehuang/ada/lib/gcc/x86_64-apple-darwin14.5.0/6.3.1/adalib/libgnat.a

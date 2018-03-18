@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 13" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/impulsegenerator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/measures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/measures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 3" line=" 46" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 4" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/impulsegenerator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 13" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 28" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 2" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 35" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/closedloop.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/icd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 11" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 49" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 50" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 51" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 72" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 49" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 50" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/measures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/impulsegenerator.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/principal.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/principal.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/principal.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/measures.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/measures.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 51" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 75" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 7" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 118" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/heart.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/manualoperationexample.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 65" line=" 117" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/network.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/assignment1.gpr</vfs_project>
+      <vfs_file>/Users/JunjieHuang/Desktop/all/HISE/assignment1/FINAL-assignment-1/src/hrm.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
